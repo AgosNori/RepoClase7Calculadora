@@ -1,1 +1,6 @@
-console.log('Hola desde la clase ')
+const fs = require ('fs')
+let data = fs.readFileSync("./data.json", "utf-8")
+let dataParseada = JSON.parse(data)
+console.log(data)
+console.log('-------------------------------')
+console.log(dataParseada)
