@@ -1,4 +1,6 @@
-{
-    "titulo": "estudiar js",
-    "descripcion":" los martes y jueves son las clases"
-}
+[
+    {
+        "titulo": "estudiar js",
+        "descripcion": " los martes y jueves son las clases"
+    }
+]
