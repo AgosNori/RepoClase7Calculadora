@@ -1,1 +1,1 @@
-console.log('Hola desde la clase 7')
+console.log('Hola desde la clase ')
