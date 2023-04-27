@@ -6,4 +6,8 @@
 //console.log(dataParseada[0].titulo)
 
 const {list }= require("./funciones/list");
-console.log(list())
+//console.log(list())
+const {find}=require("./funciones/find");
+//console.log(find('estudiar js'));
+const {edit}=require("./funciones/edit");
+edit("estudiar cocina","nueva descripcion holandaa")
